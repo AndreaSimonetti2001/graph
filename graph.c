@@ -59,8 +59,6 @@ typedef struct Vals_s {
     int valid;
 } vals_s;
 
-//Function to show
-float f(float x);
 //Map function to convert ranges
 float map(float val, float min1, float max1, float min2, float max2);
 //Length of a float with 2 digits
